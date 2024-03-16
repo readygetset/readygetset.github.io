@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readygetset.github.io/static/css/main.f15287c6.css",
+    "main.js": "/readygetset.github.io/static/js/main.d8f9bf4e.js",
+    "static/js/453.14a68ee7.chunk.js": "/readygetset.github.io/static/js/453.14a68ee7.chunk.js",
+    "index.html": "/readygetset.github.io/index.html",
+    "main.f15287c6.css.map": "/readygetset.github.io/static/css/main.f15287c6.css.map",
+    "main.d8f9bf4e.js.map": "/readygetset.github.io/static/js/main.d8f9bf4e.js.map",
+    "453.14a68ee7.chunk.js.map": "/readygetset.github.io/static/js/453.14a68ee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15287c6.css",
+    "static/js/main.d8f9bf4e.js"
+  ]
+}
